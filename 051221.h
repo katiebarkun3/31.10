@@ -105,3 +105,4 @@ void matrica_na_chislo(int** mas, int n, int m, int number) {
 			swap(mas[k][j], mas[k][m - 1 - j]);
 		}
 	}
+
